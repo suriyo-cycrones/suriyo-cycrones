@@ -20,3 +20,13 @@ You can click the Preview link to take a look at your changes.
   ใช้: ansible/ansible-lint-action@v4.1.0.post0
 - ชื่อ: ปิดปัญหาค้าง
   ใช้: actions/stale@v4.0.0
+- ชื่อ: การดำเนินการ TODO Bot
+  ใช้: adriangodong/actions-todo-bot@1.0.2
+- ชื่อ: Drone Install Action
+  ใช้: chrislennon/action-drone@v1
+- ชื่อ: ปรับใช้ด้วย rsync
+  ใช้: AEnterprise/rsync-deploy@v1.0
+- ชื่อ: Docker Hub README & การซิงค์คำอธิบาย
+  ใช้: meeDamian/sync-readme@v1.0.6
+- ชื่อ: Setup Hub
+  ใช้: Geertvdc/setup-hub@v1.0.0
